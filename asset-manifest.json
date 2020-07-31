@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/far8-pages-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/far8-pages-test/static/js/main.d47cb98d.chunk.js",
+    "main.js.map": "/far8-pages-test/static/js/main.d47cb98d.chunk.js.map",
+    "runtime-main.js": "/far8-pages-test/static/js/runtime-main.cadcb221.js",
+    "runtime-main.js.map": "/far8-pages-test/static/js/runtime-main.cadcb221.js.map",
+    "static/js/2.bc70d171.chunk.js": "/far8-pages-test/static/js/2.bc70d171.chunk.js",
+    "static/js/2.bc70d171.chunk.js.map": "/far8-pages-test/static/js/2.bc70d171.chunk.js.map",
+    "index.html": "/far8-pages-test/index.html",
+    "precache-manifest.1e5c6eeaea8a7e33265ea5bc905a548a.js": "/far8-pages-test/precache-manifest.1e5c6eeaea8a7e33265ea5bc905a548a.js",
+    "service-worker.js": "/far8-pages-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/far8-pages-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bc70d171.chunk.js.LICENSE.txt": "/far8-pages-test/static/js/2.bc70d171.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/far8-pages-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cadcb221.js",
+    "static/js/2.bc70d171.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d47cb98d.chunk.js"
+  ]
+}
